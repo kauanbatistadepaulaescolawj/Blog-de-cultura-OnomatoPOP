@@ -6,3 +6,20 @@ header{
     margin: 0 auto;
     padding: 16px;
 }
+main{
+    background-color: blanchedalmond;
+    color: beige;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+}
+article{
+    display: flex;
+}
+img{
+    width: 220px;
+    height: 220px;
+}
+.artigo-autor{
+    font-weight: bold;
+}
